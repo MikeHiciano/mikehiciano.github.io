@@ -1,5 +1,7 @@
 # Welcome to Mike Hiciano's Github Pages
 
+este es un espacio para organizar mis proyectos.
+
 # Repositories with a descent documentation:
 
 <img src="./images/iot.jpg" width="250">
