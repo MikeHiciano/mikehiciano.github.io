@@ -14,4 +14,4 @@ This is a space to organize (in some way) my projects.
 
 <img src="./images/yi.jpg" width="150">
 
-* [Yi Shooter](https://mikehiciano.github.io/yi-shooter)
+* [Yi Shooter](https://mikehiciano.github.io/yi_shooter)
