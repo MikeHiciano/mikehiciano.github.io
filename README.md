@@ -2,11 +2,18 @@
 
 This is a space to organize (in some way) my projects.
 
+# A little reference of me
+
+<img src="./images/me.jpg" width="200">
+
+``` python
+    
+    def Hi():
+        print("Welcome to this markdown")
+
+```
+
 # Repositories with a descent documentation:
-
-<img src="./images/iot.jpg" width="150">
-
-* [IoT For Dummies Examples](https://mikehiciano.github.io/iot-for-dummies-examples/) 
 
 <img src="./images/rf.jpg" width="150">
 
