@@ -1,14 +1,3 @@
-# Welcome to Mike Hiciano's Github Pages
-
-``` python
-    
-    def Hi():
-        print("Welcome to this markdown")
-
-```
-
-This is a space to organize my projects.
-
 # A little reference of me
 
 <img src="./images/me.jpg" width="200">
