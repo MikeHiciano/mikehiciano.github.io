@@ -2,7 +2,7 @@
 
 <img src="./images/me.jpg" width="200">
 
-Ok, to resume this, i'm a electronic technician who in some way knows how to "code" ... or well ... to code for some specific purposes.
+Ok, to resume this, i'm a electronic technician who for some reason knows how to "code" ... or well ... to code for some specific purposes.
 
 
 ### Someone said:
