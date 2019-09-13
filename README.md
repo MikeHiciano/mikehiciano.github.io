@@ -19,5 +19,4 @@ Ok, to resume this, i'm a electronic technician who for some reason knows how to
 
 <img src="./images/yi.jpg" width="150">
 
-* [Yi Shooter](https://mikehiciano.github.io/yi_shooter) 
-[in progress]
+* [Yi Shooter](https://mikehiciano.github.io/yi_shooter)
