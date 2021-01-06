@@ -4,11 +4,19 @@
 
 Ok, to resume this, i'm a electronic technician who for some reason knows how to "code" ... or well ... to code for some specific purposes.
 
-
 ### Someone said:
 >La forma mas facil para llegar a la sabiduria es ...
 >leyendo la documentacion oficial
 > - Eneldo Serrata
+
+# Certifications:
+- Basic electronics products assembler (ITESA) 
+- Industrial electronics fixer (ITESA)
+- Computer and peripherals fixer (ITESA)
+- Electronics control system fixer and installer (ITESA)
+- Residential and commercial electrical technician (ITI)
+- Industrial Installer electrical technician (ITI)
+- electrical technician on electronics control system (ITI)
 
 # Repositories with a descent documentation:
 
