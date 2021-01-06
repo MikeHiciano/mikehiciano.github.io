@@ -12,16 +12,16 @@ Ok, to resume this, i'm a electronic technician who for some reason knows how to
 
 # Repositories with a descent documentation:
 
-<img src="./images/rf.jpg" width="150">
+<!-- <img src="./images/rf.jpg" width="150">
 
 * [RF Project](https://mikehiciano.github.io/rfproject/)
- [in progress]
+ [in progress] -->
 
 <img src="./images/yi.jpg" width="150">
 
 * [Yi Shooter](https://mikehiciano.github.io/yi_shooter)
 
-<img src="./images/pir.jpg" width="150">
+<!-- <img src="./images/pir.jpg" width="150">
 
 * [SecuriBudge](https://mikehiciano.github.io/securibudge)
-[in progress]
+[in progress] -->
