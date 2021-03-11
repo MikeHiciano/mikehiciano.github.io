@@ -10,14 +10,14 @@ Para resumir, soy un maker que por alguna razon aparente tiene conocimientos sob
 >leyendo la documentacion oficial
 > - Eneldo Serrata
 
-# Certificaciones:
+<!-- # Certificaciones:
 - Ensamblador de productos electrónicos básicos (ITESA) 
 - Electrónico reparador industrial (ITESA)
 - Reparador de computadoras y periféricos (ITESA)
 - Instalador Reparador De Sistemas Electrónicos de Control (ITESA)
 - Electricista Instalador Residencial Y Comercial (ITI)
 - Electricista Instalador Industrial (ITI)
-- Electricista en controles eléctricos industriales (ITI)
+- Electricista en controles eléctricos industriales (ITI) -->
 
 # Impresion 3D:
 
@@ -39,7 +39,7 @@ todo lo concerniente a impresion 3D lo pueden encontrar en la siguiente pagina:
 
 * [Yi Shooter](https://mikehiciano.github.io/yi_shooter)
 
-<!-- <img src="./images/pir.jpg" width="150">
+<img src="./images/pir.jpg" width="150">
 
-* [SecuriBudge](https://mikehiciano.github.io/securibudge)
-[in progress] -->
+* [Intruder Notificator v1](https://mikehiciano.github.io/intruder-notificator)
+[in progress]
